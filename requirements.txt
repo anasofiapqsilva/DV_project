@@ -8,9 +8,6 @@ dash-core-components
 pandas
 numpy
 matplotlib
-b64decode
-WordCloud
 BytesIO
 wordcloud
 warnings
-plotly.graph_objs
