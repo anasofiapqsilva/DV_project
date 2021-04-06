@@ -11,4 +11,4 @@ matplotlib
 dash.dependencies
 io
 wordcloud
-import base64
+base64
