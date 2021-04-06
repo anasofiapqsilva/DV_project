@@ -8,3 +8,8 @@ dash-core-components
 pandas
 numpy
 matplotlib
+matplotlib==1.1.0
+dash.dependencies
+io
+wordcloud
+import base64
